@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OpenKonnect, which is an opensource social media platform.
+- 🔭 I’m currently working on [OpenKonnect](https://github.com/RahilRehan/OpenKonnect), an open source social media platform.
 - 🌱 I’m currently learning microservice architecture, best practices and devops.
 - 👯 I’m looking to collaborate on interesting and challenging opensource projects.
 - 💬 Ask me about Golang, NodeJS.
