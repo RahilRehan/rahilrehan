@@ -5,4 +5,4 @@
 - 💬 Ask me about Golang, NodeJS.
 - ✍🏻 I write at ![Blog](https://rahilrehan.github.io)
 - My current side project is ![Banco](https://github.com/RahilRehan/banco)
-- 📫 How to reach me at ![Twitter](https://twitter.com/rahil_rehan) , ![Email](rahil.midde@gmail.com)
+- 📫 Reach out to me at ![Twitter](https://twitter.com/rahil_rehan) , ![Email](rahil.midde@gmail.com)
