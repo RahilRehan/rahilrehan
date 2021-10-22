@@ -1,12 +1,8 @@
 ### Hi 👋, I'm Rahil Rehan
 
-<p align="left"> <a href="https://twitter.com/rahil_rehan" target="blank"><img src="https://img.shields.io/twitter/follow/rahil_rehan?logo=twitter&style=for-the-badge" alt="rahil_rehan" /></a> </p>
-
 - 🔭 I’m currently working on [Banco](https://github.com/RahilRehan/banco)
 
 - 🌱 I’m currently learning **Golang, Backend, Devops**
-
-- 👨‍💻 All of my projects are available at [rahilrehan.github.io](rahilrehan.github.io)
 
 - 📝 I regularly write articles on [rahilrehan.github.io](rahilrehan.github.io)
 
