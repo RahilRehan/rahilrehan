@@ -45,6 +45,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahilrehan&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html" alt="rahilrehan" />
 </p>
 
+<br>
+
 <details>
   <summary>:zap: Github Stats</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahilrehan&show_icons=true&locale=en" alt="rahilrehan" /></p>
