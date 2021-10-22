@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahil Rehan</h1>
-<h3 align="center">Software Developer at ThoughtWorks. Exploring Software Development, Devops and OpenSource.</h3>
+### Hi 👋, I'm Rahil Rehan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahilrehan&label=Profile%20views&color=0e75b6&style=flat" alt="rahilrehan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahilrehan" alt="rahilrehan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rahil_rehan" target="blank"><img src="https://img.shields.io/twitter/follow/rahil_rehan?logo=twitter&style=for-the-badge" alt="rahil_rehan" /></a> </p>
 
@@ -17,7 +14,7 @@
 
 - 💬 Ask me about **Golang, NodeJS**
 
-- 📫 How to reach me **rahil.midde@gmail.com**
+- 📫 Reach me at: **rahil.midde@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
