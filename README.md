@@ -43,7 +43,7 @@
 
 <details>
   <summary>:zap: Most used Languages</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahilrehan&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html" alt="rahilrehan" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahilrehan&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html" alt="rahilrehan" /></p>
 </details>
 
 <details>
