@@ -12,6 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Development Lifecycle](https://dev.to/rahil_rehan/software-development-lifecycle-514o)
+- [Software Development Lifecycle](https://rahilrehan.github.io/post/software-engineering-lifecycle/)
+- [Dependency Injection - Spring](https://dev.to/rahil_rehan/dependency-injection-spring-271p)
+- [Test Driven Development - Notes](https://dev.to/rahil_rehan/test-driven-development-notes-1cd5)
+- [Microservices concepts - Java](https://dev.to/rahil_rehan/microservices-concepts-java-1a5a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
