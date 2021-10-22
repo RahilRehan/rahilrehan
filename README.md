@@ -41,8 +41,16 @@
   <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahilrehan&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html" alt="rahilrehan" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahilrehan&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html" alt="rahilrehan" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahilrehan&show_icons=true&locale=en" alt="rahilrehan" /></p>
+<details>
+  <summary>:zap: Github Stats</summary>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahilrehan&show_icons=true&locale=en" alt="rahilrehan" /></p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahilrehan&" alt="rahilrehan" /></p>
+<details>
+  <summary>:zap: Github Streak</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahilrehan&" alt="rahilrehan" /></p>
+</details>
