@@ -12,10 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Notes - Hands on Software Engineering with Golang - 01](https://rahilrehan.github.io/post/hands-on-se-with-golang/)
+- [Golang quick reference](https://rahilrehan.github.io/post/golang-snippets/)
 - [Software Development Lifecycle](https://rahilrehan.github.io/post/software-engineering-lifecycle/)
 - [Dependency Injection - Spring](https://rahilrehan.github.io/post/dependecy-injection-spring/)
 - [Microservices Concepts - Java](https://rahilrehan.github.io/post/microservices-concepts-java/)
-- [Test Driven Development - Notes](https://rahilrehan.github.io/post/test-driven-development-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
