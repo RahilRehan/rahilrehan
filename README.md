@@ -1,12 +1,10 @@
 ### Hi 👋, I'm Rahil Rehan
 
-- 🔭 I’m currently working on [Banco](https://github.com/RahilRehan/banco)
-
-- 🌱 I’m currently learning **Golang, Backend, Devops**
+- 🌱 I’m currently learning **Blockchain**
 
 - 📝 I regularly write articles on [rahilrehan.github.io](rahilrehan.github.io)
 
-- 💬 Ask me about **Golang, NodeJS**
+- 💬 Happy to discuss about **Golang, NodeJS, Blockchain, Devops, Backend**
 
 - 📫 Reach me at: **rahil.midde@gmail.com**
 
