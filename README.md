@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Rahil Rehan
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently exploring **Blockchain and Devops**
 
 - 📝 I regularly write articles on [rahilrehan.github.io](rahilrehan.github.io)
 
