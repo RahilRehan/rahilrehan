@@ -11,7 +11,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [About](https://rahilrehan.github.io/about/)
-- [My Post](https://rahilrehan.github.io/posts/my-post/)
+- [My Post](https://rahilrehan.github.io/posts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
